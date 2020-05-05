@@ -1,6 +1,5 @@
 # Python
 
-Hier stelle ich meine bisherigen Erfahrungen in Python vor. 
-Diese sind im selbststudium entstanden   
+Hier findet sich ein kleiner Space Invaders Klon mit einem X-Wing als Avatar und Coronaviren als Feinden.    
 
-**Viel Spass beim stöbern**
+**Viel Spass beim stöbern/Spielen**
